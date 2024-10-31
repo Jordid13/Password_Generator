@@ -1,1 +1,1 @@
-I am using this repository to store my practice projects.
+Primitive password generator
